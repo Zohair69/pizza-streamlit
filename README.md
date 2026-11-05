@@ -2,7 +2,7 @@
 
 Auteur : Zohair (formation Data Analyst, Simplon Lyon)
 
-Application en ligne : https://pizza-ambre-hanane-ayline.streamlit.app/
+Application en ligne : https://pizza-zohair.streamlit.app/
 
 ## Question métier
 
